@@ -1,12 +1,10 @@
 ## Open Datasets
 
-This repo contains list of open datasets. I arranged the link based on thematic categories.
+This repo contains the list of open datasets explorers.  
 
 ### Open Datasets Explorer Engine
 + [Kaggle Dataset](https://www.kaggle.com/datasets)
 + [Google Dataset Search](https://datasetsearch.research.google.com/)
-
-### Environment
-
-
-### Healthcare
++ [IBM Curated Dataset](https://ibmhadoop.devpost.com/details/data)
++ [Awesome Public Datasets] (https://github.com/awesomedata/awesome-public-datasets)
++ [Data Scince Central] (https://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets)
